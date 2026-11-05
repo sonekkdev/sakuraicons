@@ -1,67 +1,67 @@
 Package: com.sonekk.sakuraicons
-Version: 0.9.1
+Version: 0.9.2
 Architecture: iphoneos-arm64e
 Section: Tweaks
 Maintainer: sonekk
 Author: sonekk
 Description: Tinted blue icons on dark cards with hidden labels.
-Filename: ./SakuraIcons_0.9.1_arm64e.deb
-Size: 6960
-MD5sum: cc5fac8e95f4f8b615d204f68707d2da
-SHA256: d1218f041d90fb8d71125b3a4d5af842692ea4ee54222073994514d6003f7f78
+Filename: ./SakuraIcons_0.9.2_arm64e.deb
+Size: 13144
+MD5sum: 6347dac98ebd205a8125a0b3083a8473
+SHA256: df73d6c6eeb329c954d85c1af4a99fa53082c6b3540bd5d7da77e19e216d76ef
 
 Package: com.sonekk.sakuraicons.preset-ice
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Section: Tweaks
 Maintainer: sonekk
 Author: sonekk
 Description: Applies the Ice palette to SakuraIcons.
-Filename: ./SakuraIconsPreset_ice_1.0.0_all.deb
-Size: 1010
-MD5sum: 5101eef880bfb1bd193a69537790052c
-SHA256: 428431247f43e8830896cc2758c7ac7b6f7ae360d0e36ba51f9b32359597e654
+Filename: ./SakuraIconsPreset_ice_1.0.1_all.deb
+Size: 1080
+MD5sum: 5575f5c22a683fe94ca9e227369c7102
+SHA256: 1eb92af6ba636cad25c9f653a9e5b00e0e62693ee81822e74125bbefb0ef3432
 Depends: com.sonekk.sakuraicons
 Conflicts: com.sonekk.sakuraicons.preset-sakura,com.sonekk.sakuraicons.preset-mono,com.sonekk.sakuraicons.preset-midnight
 
 Package: com.sonekk.sakuraicons.preset-sakura
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Section: Tweaks
 Maintainer: sonekk
 Author: sonekk
 Description: Applies the Sakura palette to SakuraIcons.
-Filename: ./SakuraIconsPreset_sakura_1.0.0_all.deb
-Size: 1008
-MD5sum: 00796e9c9df5866c01eb2ebb5112d567
-SHA256: 2e8792c0bdcadeb42fa3fad821ecb9be711ebdf9b3f5c40e85a2a66dcc2388f3
+Filename: ./SakuraIconsPreset_sakura_1.0.1_all.deb
+Size: 1078
+MD5sum: a8ce14ad2d8795c0693624fae7f1ebd4
+SHA256: e0c265c17c10807695d6f93759867e670ac9189711ee642a400f9e174fd624de
 Depends: com.sonekk.sakuraicons
 Conflicts: com.sonekk.sakuraicons.preset-ice,com.sonekk.sakuraicons.preset-mono,com.sonekk.sakuraicons.preset-midnight
 
 Package: com.sonekk.sakuraicons.preset-mono
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Section: Tweaks
 Maintainer: sonekk
 Author: sonekk
 Description: Applies the Mono palette to SakuraIcons.
-Filename: ./SakuraIconsPreset_mono_1.0.0_all.deb
-Size: 1008
-MD5sum: 2e45fb4ba982a4ac876aa9dee19802a2
-SHA256: f0873ca9f97e622c990aa09cf5415f7e9ce16ce183f9922406279d91d65ba785
+Filename: ./SakuraIconsPreset_mono_1.0.1_all.deb
+Size: 1078
+MD5sum: 320e13e1bb9cc46c13e5ff6a9c8a8f84
+SHA256: b0f25b62aa51f8492a4feb7dd220435d3f24b9c799bcf81b5bf5c15e96d7669d
 Depends: com.sonekk.sakuraicons
 Conflicts: com.sonekk.sakuraicons.preset-ice,com.sonekk.sakuraicons.preset-sakura,com.sonekk.sakuraicons.preset-midnight
 
 Package: com.sonekk.sakuraicons.preset-midnight
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Section: Tweaks
 Maintainer: sonekk
 Author: sonekk
 Description: Applies the Midnight palette to SakuraIcons.
-Filename: ./SakuraIconsPreset_midnight_1.0.0_all.deb
-Size: 1008
-MD5sum: 39e13a11898fccd11790080601bc1962
-SHA256: 60e3daa4244554c63168f74547c498400dccad963b1bd786b94152a24f01a413
+Filename: ./SakuraIconsPreset_midnight_1.0.1_all.deb
+Size: 1078
+MD5sum: e63e63fa17dc644cd8135c22ada6cc87
+SHA256: a3ebb25066f413c5cb57fd8b91be8fb804f9bf1241099418cac495f0aba14b2d
 Depends: com.sonekk.sakuraicons
 Conflicts: com.sonekk.sakuraicons.preset-ice,com.sonekk.sakuraicons.preset-sakura,com.sonekk.sakuraicons.preset-mono
