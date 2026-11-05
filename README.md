@@ -1,11 +1,11 @@
-﻿# SakuraIcons
+﻿# SONEKK repo
 
-SpringBoard tweak for Nyxian / Switzach: tinted blue icons on dark cards, hidden labels.
+SakuraIcons tweak for Nyxian / Switzach.
 
-## Install
+## Sileo / APT source
 
 ``
-dpkg -i SakuraIcons.deb
+https://sonekkdev.github.io/sakuraicons/
 ``
 
-Download: https://github.com/sonekkdev/sakuraicons/releases/latest/download/SakuraIcons.deb
+Packages: SakuraIcons + presets (Ice / Sakura / Mono / Midnight).

@@ -1,0 +1,8 @@
+Origin: sonekk
+Label: SONEKK
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e all
+Components: main
+Description: SakuraIcons tweak and presets
