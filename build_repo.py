@@ -11,7 +11,7 @@ os.makedirs(DOCS, exist_ok=True)
 DYLIB = os.path.join(ROOT, "libSakuraIcons.dylib")
 PLIST = os.path.join(ROOT, "SakuraIcons.plist")
 
-VERSION = "0.9.3"
+VERSION = "0.10.0"
 
 PRESETS = {
     "ice": ("Ice", "#0A1F3C", "#5AA9FF"),
@@ -31,13 +31,9 @@ BASE_PREFS = {
     "grow": 0.07,
 }
 
-TWEAK_DIRS = ["var/jb/Library/MobileSubstrate/DynamicLibraries"]
+TWEAK_DIRS = ["usr/share/sakuraicons"]
 
-PREFS_DIRS = [
-    "var/mobile/Library/Preferences",
-    "var/jb/var/mobile/Library/Preferences",
-    "Library/Preferences",
-]
+PREFS_DIRS = ["usr/share/sakuraicons"]
 
 
 def entry(tar, name, data, mode, isdir=False):
@@ -123,6 +119,56 @@ def deb_record(path, package, version, architecture, description, depends="", co
     return "\n".join(lines) + "\n"
 
 
+POSTINST = """
+#!/bin/sh
+SRC1=/var/jb/usr/share/sakuraicons
+SRC2=/usr/share/sakuraicons
+LOG=/var/mobile/sakura_dirs.txt
+: > "$LOG" 2>/dev/null
+
+for d in \
+  /var/jb/Library/MobileSubstrate/DynamicLibraries \
+  /Library/MobileSubstrate/DynamicLibraries \
+  /var/jb/usr/lib/TweakInject \
+  /usr/lib/TweakInject \
+  /var/jb/usr/lib/ellekit/TweakInject \
+  /usr/lib/ellekit/TweakInject
+do
+  mkdir -p "$d" 2>/dev/null
+  if cp "$SRC1/SakuraIcons.dylib" "$d/" 2>/dev/null || cp "$SRC2/SakuraIcons.dylib" "$d/" 2>/dev/null; then
+    cp "$SRC1/SakuraIcons.plist" "$d/" 2>/dev/null || cp "$SRC2/SakuraIcons.plist" "$d/" 2>/dev/null
+    chmod 755 "$d/SakuraIcons.dylib" 2>/dev/null
+    echo "OK $d" >> "$LOG"
+  else
+    echo "FAIL $d" >> "$LOG"
+  fi
+done
+
+killall -9 SpringBoard 2>/dev/null
+exit 0
+"""
+
+
+PRESET_POST = """#!/bin/sh
+SRC1=/var/jb/usr/share/sakuraicons/com.sonekk.sakuraicons.plist
+SRC2=/usr/share/sakuraicons/com.sonekk.sakuraicons.plist
+LOG=/var/mobile/sakura_dirs.txt
+
+for d in /var/mobile/Library/Preferences /var/jb/var/mobile/Library/Preferences /var/jb/Library/Preferences; do
+  mkdir -p "$d" 2>/dev/null
+  if cp "$SRC1" "$d/com.sonekk.sakuraicons.plist" 2>/dev/null || cp "$SRC2" "$d/com.sonekk.sakuraicons.plist" 2>/dev/null; then
+    chmod 644 "$d/com.sonekk.sakuraicons.plist" 2>/dev/null
+    echo "PREFS OK $d" >> "$LOG"
+  else
+    echo "PREFS FAIL $d" >> "$LOG"
+  fi
+done
+
+killall -9 SpringBoard 2>/dev/null
+exit 0
+"""
+
+
 def main():
     dylib = open(DYLIB, "rb").read()
     plist = open(PLIST, "rb").read()
@@ -150,7 +196,7 @@ def main():
         TWEAK_DIRS,
         {
             "preinst": "#!/bin/sh\nexit 0\n",
-            "postinst": "#!/bin/sh\nkillall -9 SpringBoard 2>/dev/null\nexit 0\n",
+            "postinst": POSTINST,
         },
     )
 
@@ -189,7 +235,7 @@ def main():
             control,
             files,
             PREFS_DIRS,
-            {"postinst": "#!/bin/sh\nkillall -9 SpringBoard 2>/dev/null\nexit 0\n"},
+            {"postinst": PRESET_POST},
         )
         records.append(
             deb_record(path, "com.sonekk.sakuraicons.preset-" + key, "1.0.1", "all",
