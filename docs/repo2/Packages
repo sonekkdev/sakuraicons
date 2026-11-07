@@ -42,17 +42,6 @@ Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
 
-Package: com.sonekk.testflash
-Name: Sonekk Test Flash
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.testflash_1.0.0_iphoneos-arm64e.deb
-Size: 3924
-SHA256: 0b765581225e0316789ddb7f78a9e5e9771ea36b8ddfe4dd24a130cb5703a9ca
-Description: One-shot test package - flashes TEST UDANY / SUKCES for one second and does nothing else.
-
 Package: com.sonekk.switzachs
 Name: Switzach Speed
 Version: 1.0.0
