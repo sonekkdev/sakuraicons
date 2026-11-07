@@ -1,13 +1,13 @@
 Package: com.sonekk.sonekkoslock
 Name: Sonekk Lock
-Version: 4.2.0
+Version: 4.3.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.sonekkoslock_4.2.0_iphoneos-arm64e.deb
-Size: 278078
-SHA256: 87ab1cb2281e8a6f7c901059e525f0ec6fffdd7ed7ade5bc5b4a1b110387d367
-Description: Winter lock screen - new cat wallpaper, refined clock with soft glow, Widget Studio stickers you can drag on the lock screen.
+Filename: pool/com.sonekk.sonekkoslock_4.3.0_iphoneos-arm64e.deb
+Size: 278782
+SHA256: 6d76ea96b40dd3fb8d7f6e8cca222a60a0355b40f5edeeabeab9475411a0b59e
+Description: Winter lock screen - ice gradient breathing clock, lower fingerprint button, draggable Widget Studio stickers.
 
 Package: com.sonekk.widgetstudio
 Name: Widget Studio
