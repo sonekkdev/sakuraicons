@@ -1,23 +1,23 @@
 Package: com.sonekk.sonekkoslock
 Name: Sonekk Lock
-Version: 4.0.0
+Version: 4.1.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.sonekkoslock_4.0.0_iphoneos-arm64e.deb
-Size: 407392
-SHA256: b5f48a0c86bdf7fd7ab03a17f1bfdacee3d037b510be4bedd9951dacb4cae5ef
-Description: Winter glass lock screen v2 - choreographed entry, two snow depth layers, glass rim with specular sweep, breathing clock panel, fingerprint scan unlock.
+Filename: pool/com.sonekk.sonekkoslock_4.1.0_iphoneos-arm64e.deb
+Size: 275190
+SHA256: 8ad909e362ff2b43a922bad15b0d4822a71a936441441332e014745709617c3e
+Description: Winter lock screen - new cat wallpaper, cleaner white clock, Widget Studio stickers on the lock screen.
 
 Package: com.sonekk.widgetstudio
 Name: Widget Studio
-Version: 1.8.1
+Version: 1.9.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.widgetstudio_1.8.1_iphoneos-arm64e.deb
-Size: 64558
-SHA256: 0dc1de47f2408479e603a0f4c5c412bf24b246c3ed8402b31b52e894e5fa0626
+Filename: pool/com.sonekk.widgetstudio_1.9.0_iphoneos-arm64e.deb
+Size: 67426
+SHA256: aedbf5cdf02f88f1f99603b9d68f0e85a05652afffe8f0c388d6a6f5079232ea
 Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
 
 Package: com.sonekk.touchfrost
