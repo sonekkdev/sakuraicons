@@ -2,6 +2,15 @@
   "updated": "2026-11-07",
   "items": [
     {
+      "id": "testflash",
+      "name": "TEST - Sonekk Test Flash",
+      "desc": "Jednorazowy test instalacji: pokazuje TEST UDANY / SUKCES na 1 s i nic wiecej.",
+      "version": "1.0.0",
+      "pkg": "com.sonekk.testflash",
+      "size": 3924,
+      "url": "https://raw.githubusercontent.com/sonekkdev/sakuraicons/main/docs/testflash/com.sonekk.testflash_1.0.0_iphoneos-arm64e.deb"
+    },
+    {
       "id": "sonekklock5",
       "name": "Sonekk Lock 4.0.0",
       "desc": "Lock screen ClUDE v2: glass panel, white snow, fingerprint unlock.",
