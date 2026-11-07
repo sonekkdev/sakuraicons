@@ -1,0 +1,65 @@
+Package: com.sonekk.sonekkoslock
+Name: Sonekk Lock
+Version: 4.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.sonekkoslock_4.0.0_iphoneos-arm64e.deb
+Size: 407392
+SHA256: b5f48a0c86bdf7fd7ab03a17f1bfdacee3d037b510be4bedd9951dacb4cae5ef
+Description: Winter glass lock screen v2 - choreographed entry, two snow depth layers, glass rim with specular sweep, breathing clock panel, fingerprint scan unlock.
+
+Package: com.sonekk.widgetstudio
+Name: Widget Studio
+Version: 1.5.1
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.widgetstudio_1.5.1_iphoneos-arm64e.deb
+Size: 53702
+SHA256: 7ec74970591c64f32e88d3ee86d6784fd967591bbf3fe57907f0f900f733c8de
+Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
+
+Package: com.sonekk.touchfrost
+Name: Sonekk Touch Frost
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.touchfrost_1.1.1_iphoneos-arm64e.deb
+Size: 21664
+SHA256: dddd640feb1bdb26fe56bb80e1c62d8fc5d37f20ad7da7eb6dadde3b440095a8
+Description: White winter touch effect - pure white ice glow, trail, snow and shimmer ring, plus a soft white glow on every home screen icon.
+
+Package: com.sonekk.launch
+Name: Sonekk Launch
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.launch_2.0.0_iphoneos-arm64e.deb
+Size: 7880
+SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
+Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
+
+Package: com.sonekk.switzachs
+Name: Switzach Speed
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.switzachs_1.0.0_iphoneos-arm64e.deb
+Size: 3132
+SHA256: 150c3e259ce3f820b692a3fb56776ddb3bb172f0cc8d97861b0acf5e899e9be7
+Description: Speeds up SpringBoard animations, app open/close transitions and window animations.
+
+Package: com.sonekk.motion
+Name: Sonekk Motion
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.motion_1.4.0_iphoneos-arm64e.deb
+Size: 12292
+SHA256: 55e5b7d4db2b057d746c4b80320f7b7800e9bab486d83802210805cfeff2ce03
+Description: App open zoom from the icon, animated page transitions with wallpaper parallax, soft app close and a launch dim. Settings in /var/mobile/Library/SonekkMotion/settings.json
