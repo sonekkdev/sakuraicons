@@ -11,13 +11,13 @@ Description: Winter glass lock screen v2 - choreographed entry, two snow depth l
 
 Package: com.sonekk.widgetstudio
 Name: Widget Studio
-Version: 1.7.0
+Version: 1.7.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.widgetstudio_1.7.0_iphoneos-arm64e.deb
-Size: 60066
-SHA256: 7902becc3b6aa3bfbcab06ab23c271d53e8d94ded966b0988c25240c40515d44
+Filename: pool/com.sonekk.widgetstudio_1.7.1_iphoneos-arm64e.deb
+Size: 60362
+SHA256: 0cba6a60bbbd0619a10632e3ea617a4b1f29f1da11fd7ff2a0cb2b1948a2fe0c
 Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
 
 Package: com.sonekk.touchfrost
