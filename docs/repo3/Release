@@ -1,0 +1,15 @@
+Origin: Sonekk
+Label: Sonekk
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e
+Components: main
+Description: Sonekk tweaks for Switzach
+Date: Sat, 07 Nov 2026 22:37:57 +0000
+MD5Sum:
+ aba773d26ad49936c7297ca63d4454d5 2476 Packages
+ e2def233acaab93240a5e2d13f38b3ae 1038 Packages.gz
+SHA256:
+ eb926202975186d75f286cd35b05932ce15eabceb048806d0c033f00022e5b0e 2476 Packages
+ bebbdd4fb8d11403fcacaff6a01ef59773071e985694ea133bdeeb70b5e911a5 1038 Packages.gz
