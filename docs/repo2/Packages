@@ -52,3 +52,14 @@ Filename: pool/com.sonekk.switzachs_1.0.0_iphoneos-arm64e.deb
 Size: 3132
 SHA256: 150c3e259ce3f820b692a3fb56776ddb3bb172f0cc8d97861b0acf5e899e9be7
 Description: Speeds up SpringBoard animations, app open/close transitions and window animations.
+
+Package: com.sonekk.motion
+Name: Sonekk Motion
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.motion_1.0.0_iphoneos-arm64e.deb
+Size: 13786
+SHA256: 6c9f3716aa0a3297def664f0b23676d9b6f91b79d26dc564eea8533b16987ffb
+Description: App open zoom from the icon, animated page transitions with wallpaper parallax, soft app close and a launch dim. Settings in /var/mobile/Library/SonekkMotion/settings.json
