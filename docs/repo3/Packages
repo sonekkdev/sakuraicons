@@ -198,13 +198,13 @@ Description: Swiateczna animacja ladowania - czerwona poswiata, pierscien i snie
 
 Package: com.sonekk.sounds
 Name: Sonekk Sounds
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.sounds_1.0.0_iphoneos-arm64e.deb
-Size: 46982
-SHA256: 58e2093f4b03fd1ab19b6b81f5a6c8f626046aa771115451031dc301dda112bc
+Filename: pool/com.sonekk.sounds_1.0.1_iphoneos-arm64e.deb
+Size: 47598
+SHA256: 5ac2fdefc2f57de4d87355bf74578d869b0fd981d49f93e4ece4b2bd34214fe0
 Description: Krotki, czysty dzwiek dotkniecia na pulpicie i ekranie blokady. Trzy dzwieki albo Twoj wlasny plik.
 
 Package: com.sonekk.appstudio
