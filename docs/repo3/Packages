@@ -31,15 +31,70 @@ Size: 10726
 SHA256: 38edfe826d718033c43ff01bfb27fec8d26bf8384c90bd62d3e2eb3136b6fd28
 Description: White neon glow around the Dynamic Island with falling snow, works in every app, tap pulse, no charging effects. New apps auto-detected on install.
 
-Package: com.sonekk.touchfrost
-Name: Sonekk Touch Frost
-Version: 1.3.0
+Package: com.sonekk.snowfall
+Name: Sonekk Snowfall
+Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.touchfrost_1.3.0_iphoneos-arm64e.deb
-Size: 21380
-SHA256: 34adaae755920b5c4feb79fff67f9f66ab0268ffbab6aab651a1970c671f81a7
+Filename: pool/com.sonekk.snowfall_1.0.0_iphoneos-arm64e.deb
+Size: 7214
+SHA256: deec29cb5f6f6e9db75c6a2a79ffbc059e7bd0461b41377a8b7e09ff7a3b687a
+Description: Ambient white snowfall over the whole screen - two depth layers, no hooks, non-interactive.
+
+Package: com.sonekk.starfield
+Name: Sonekk Starfield
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.starfield_1.0.0_iphoneos-arm64e.deb
+Size: 6544
+SHA256: 1cb231f76d469f0fc3a79f6f2fb774dd2ab4ed3711e5eb4e8d073647f2f7ffef
+Description: Slow drifting white stars/sparks across the screen - calm, non-interactive overlay.
+
+Package: com.sonekk.frostframe
+Name: Sonekk Frost Frame
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.frostframe_1.0.0_iphoneos-arm64e.deb
+Size: 6668
+SHA256: 6a1d7e700c0110ca8dba434d42e5231f301f35b656fa89e1bc5f4a7bc860adbc
+Description: Icy white glow frame around the screen edges with a breathing rim.
+
+Package: com.sonekk.vignette
+Name: Sonekk Vignette
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.vignette_1.0.0_iphoneos-arm64e.deb
+Size: 6334
+SHA256: fcfd20c160f06e2054679233146eeb06d205301d0ce41d5b7852d1ad6211c6af
+Description: Soft cinematic vignette with a light bloom at the top - makes wallpapers pop.
+
+Package: com.sonekk.aurora
+Name: Sonekk Aurora
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.aurora_1.0.0_iphoneos-arm64e.deb
+Size: 7148
+SHA256: 73323ff20a3d74f86b151a9bf296f6cecf402679dab5c1bf9268d4c286f58351
+Description: Slow white aurora light drifting along the top of the screen.
+
+Package: com.sonekk.touchfrost
+Name: Sonekk Touch Frost
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.touchfrost_1.4.0_iphoneos-arm64e.deb
+Size: 22680
+SHA256: 4ee43ce1783caeb7c221ceadefa12025fa81b41fc4f24ecc8e48355ada9a5167
 Description: White winter touch effect - thicker falling snow, ice glow, trail and shimmer ring, soft white glow on home screen icons. Never disables itself.
 
 Package: com.sonekk.launch
