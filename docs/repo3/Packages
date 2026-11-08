@@ -75,6 +75,17 @@ Size: 6968
 SHA256: c31a31856516211f4b5a4565152dd5790065876943b345d2af0506c0c6c8beff
 Description: White breathing halo hugging the icon artwork (not the label), pre-rendered layer, 120 Hz.
 
+Package: com.sonekk.iconpulse
+Name: Sonekk Icon Pulse
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.iconpulse_1.0.0_iphoneos-arm64e.deb
+Size: 9560
+SHA256: 805c2be75a3544979358f6d578fe8abe217603b293ab35b79450f73158c8ce6a
+Description: White breathing halo hugging the icon artwork (not the label), pre-rendered layer, 120 Hz.
+
 Package: com.sonekk.dockglow
 Name: Sonekk Dock Glow
 Version: 1.0.0
