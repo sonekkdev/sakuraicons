@@ -174,6 +174,17 @@ Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
 
+Package: com.sonekk.charge
+Name: Sonekk Charge
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.charge_1.0.0_iphoneos-arm64e.deb
+Size: 10548
+SHA256: f1baeb8f1cf3c64548fe705c1b0318cd3f210affa69e0adfbe24d8c8d918b789
+Description: Swiateczna animacja ladowania - czerwona poswiata, pierscien i sniezynka rysowana kreska po kresce. Pojawia sie na 2 sekundy po podlaczeniu kabla.
+
 Package: com.sonekk.sounds
 Name: Sonekk Sounds
 Version: 1.0.0
