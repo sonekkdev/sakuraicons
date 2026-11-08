@@ -174,6 +174,17 @@ Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
 
+Package: com.sonekk.sounds
+Name: Sonekk Sounds
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.sounds_1.0.0_iphoneos-arm64e.deb
+Size: 46982
+SHA256: 58e2093f4b03fd1ab19b6b81f5a6c8f626046aa771115451031dc301dda112bc
+Description: Krotki, czysty dzwiek dotkniecia na pulpicie i ekranie blokady. Trzy dzwieki albo Twoj wlasny plik.
+
 Package: com.sonekk.appstudio
 Name: App Studio
 Version: 1.0.13
