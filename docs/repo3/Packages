@@ -22,46 +22,46 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 
 Package: com.sonekk.island
 Name: Sonekk Island
-Version: 1.6.0
+Version: 1.6.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.island_1.6.0_iphoneos-arm64e.deb
-Size: 9798
-SHA256: d443b37f71e28b80664122b42d14c999f3fbf745a91c5035270fe51791cafd65
+Filename: pool/com.sonekk.island_1.6.1_iphoneos-arm64e.deb
+Size: 9834
+SHA256: 773f97d359d3fad1e14e12875da029a08e89cf45c658e6f3d5086f8508a6f1cc
 Description: White neon glow around the Dynamic Island with falling snow. SpringBoard only - no per-app injection, no touch risk.
 
 Package: com.sonekk.snowfall
 Name: Sonekk Snowfall
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.snowfall_1.0.0_iphoneos-arm64e.deb
-Size: 7214
-SHA256: deec29cb5f6f6e9db75c6a2a79ffbc059e7bd0461b41377a8b7e09ff7a3b687a
+Filename: pool/com.sonekk.snowfall_1.0.1_iphoneos-arm64e.deb
+Size: 7218
+SHA256: 06c6a8df43574f1d47f09cf2ceded823f9234fb0b9892a220eb9975935d71654
 Description: Ambient white snowfall over the whole screen - two depth layers, no hooks, non-interactive.
 
 Package: com.sonekk.starfield
 Name: Sonekk Starfield
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.starfield_1.0.0_iphoneos-arm64e.deb
-Size: 6544
-SHA256: 1cb231f76d469f0fc3a79f6f2fb774dd2ab4ed3711e5eb4e8d073647f2f7ffef
+Filename: pool/com.sonekk.starfield_1.0.1_iphoneos-arm64e.deb
+Size: 6580
+SHA256: 63481d8578c8c51b9d0dbf0a288fb8315605a1dde318826304b4ddd9c267cef6
 Description: Slow drifting white stars/sparks across the screen - calm, non-interactive overlay.
 
 Package: com.sonekk.aurora
 Name: Sonekk Aurora
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.aurora_1.0.0_iphoneos-arm64e.deb
-Size: 7148
-SHA256: 73323ff20a3d74f86b151a9bf296f6cecf402679dab5c1bf9268d4c286f58351
+Filename: pool/com.sonekk.aurora_1.0.1_iphoneos-arm64e.deb
+Size: 7172
+SHA256: 6d1725c35d173d98f8493dddfd7d3acf1ec0512bdfebbb088f8ab82569bfade0
 Description: Slow white aurora light drifting along the top of the screen.
 
 Package: com.sonekk.iconglow
