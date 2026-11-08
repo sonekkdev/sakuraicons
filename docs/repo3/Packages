@@ -174,6 +174,17 @@ Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
 
+Package: com.sonekk.appstudio
+Name: App Studio
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Utilities
+Filename: pool/com.sonekk.appstudio_1.0.0_iphoneos-arm64e.deb
+Size: 59970
+SHA256: b5868b90d950fa6fd8fc884c9d1adf07c846c872765ad77e6d13dceaf6ee9baf
+Description: Buduj male aplikacje rozmawiajac z AI. Kazda apka dostaje ikone z Twoich zdjec i instaluje sie na pulpicie.
+
 Package: com.sonekk.xmaslock
 Name: Sonekk Xmas Lock
 Version: 1.1.0
