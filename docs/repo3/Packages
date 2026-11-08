@@ -22,14 +22,14 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 
 Package: com.sonekk.island
 Name: Sonekk Island
-Version: 1.3.2
+Version: 1.4.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.island_1.3.2_iphoneos-arm64e.deb
-Size: 9784
-SHA256: 6ba167acd59c421cdd5f3ac0682ed14e3cbbae6cd7f16129c3a1fbb2497e3233
-Description: Blue neon glow around the Dynamic Island in every app, full-width outline on the charging pill, hard 2s pulse on charger connect, tap pulse.
+Filename: pool/com.sonekk.island_1.4.0_iphoneos-arm64e.deb
+Size: 10534
+SHA256: b5b414197fbacd370dc23f579e59cf3fe0d01b5a12af422adc4202223bcb9a1d
+Description: Blue neon glow around the Dynamic Island in every app, 2 s charging pill outline like iOS, tap pulse. New apps are auto-detected on install.
 
 Package: com.sonekk.touchfrost
 Name: Sonekk Touch Frost
