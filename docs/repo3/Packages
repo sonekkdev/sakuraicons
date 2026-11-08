@@ -66,14 +66,14 @@ Description: Slow white aurora light drifting along the top of the screen.
 
 Package: com.sonekk.iconglow
 Name: Sonekk Icon Glow
-Version: 1.0.1
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.iconglow_1.0.1_iphoneos-arm64e.deb
-Size: 5058
-SHA256: f8099dc0843cae689ed5f31d049e6d483914b8fa592f3e76ebfd84f702933aa3
-Description: White breathing aura on every home screen and dock icon. No subviews, no layout changes.
+Filename: pool/com.sonekk.iconglow_1.1.0_iphoneos-arm64e.deb
+Size: 6928
+SHA256: 7c9d625102dfb2538129af02f71dc6c0f1a73112f59c9c3ffc09a064462cef9d
+Description: White breathing aura on every home screen and dock icon. Pre-rendered glow layer - no per-frame shadows, full 120 Hz.
 
 Package: com.sonekk.touchfrost
 Name: Sonekk Touch Frost
