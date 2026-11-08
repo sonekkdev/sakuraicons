@@ -22,46 +22,46 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 
 Package: com.sonekk.island
 Name: Sonekk Island
-Version: 1.6.1
+Version: 1.6.2
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.island_1.6.1_iphoneos-arm64e.deb
-Size: 9834
-SHA256: 773f97d359d3fad1e14e12875da029a08e89cf45c658e6f3d5086f8508a6f1cc
+Filename: pool/com.sonekk.island_1.6.2_iphoneos-arm64e.deb
+Size: 10110
+SHA256: ac2324f55f782c4cb7dd91fb7bfda2bf5c83ffec26f2d59674bae27302085684
 Description: White neon glow around the Dynamic Island with falling snow. SpringBoard only - no per-app injection, no touch risk.
 
 Package: com.sonekk.snowfall
 Name: Sonekk Snowfall
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.snowfall_1.0.1_iphoneos-arm64e.deb
-Size: 7218
-SHA256: 06c6a8df43574f1d47f09cf2ceded823f9234fb0b9892a220eb9975935d71654
+Filename: pool/com.sonekk.snowfall_1.0.2_iphoneos-arm64e.deb
+Size: 7574
+SHA256: 0876cc9b1062fd001a5b3378f39ff97df819487bc5e5dc7b6e6491cf34718bfd
 Description: Ambient white snowfall over the whole screen - two depth layers, no hooks, non-interactive.
 
 Package: com.sonekk.starfield
 Name: Sonekk Starfield
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.starfield_1.0.1_iphoneos-arm64e.deb
-Size: 6580
-SHA256: 63481d8578c8c51b9d0dbf0a288fb8315605a1dde318826304b4ddd9c267cef6
+Filename: pool/com.sonekk.starfield_1.0.2_iphoneos-arm64e.deb
+Size: 6920
+SHA256: 62254ae9d67ea27b83e7cc9afbc8c305d6f3da3a1f97f91f3a70fbd01e6bf64a
 Description: Slow drifting white stars/sparks across the screen - calm, non-interactive overlay.
 
 Package: com.sonekk.aurora
 Name: Sonekk Aurora
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.aurora_1.0.1_iphoneos-arm64e.deb
-Size: 7172
-SHA256: 6d1725c35d173d98f8493dddfd7d3acf1ec0512bdfebbb088f8ab82569bfade0
+Filename: pool/com.sonekk.aurora_1.0.2_iphoneos-arm64e.deb
+Size: 7508
+SHA256: d43dfe98e7d00d16a9fc5cd4fb59945891e88459bd16ba4b81d861d294db10fe
 Description: Slow white aurora light drifting along the top of the screen.
 
 Package: com.sonekk.iconglow
@@ -74,6 +74,39 @@ Filename: pool/com.sonekk.iconglow_1.2.0_iphoneos-arm64e.deb
 Size: 6968
 SHA256: c31a31856516211f4b5a4565152dd5790065876943b345d2af0506c0c6c8beff
 Description: White breathing halo hugging the icon artwork (not the label), pre-rendered layer, 120 Hz.
+
+Package: com.sonekk.dockglow
+Name: Sonekk Dock Glow
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.dockglow_1.0.0_iphoneos-arm64e.deb
+Size: 6966
+SHA256: 40777128e3683dbcb3f71c708fee4b08c6e5f1b1ba0916148f69a3d128672bbc
+Description: White breathing halo behind every dock icon, pre-rendered layer, no layout changes.
+
+Package: com.sonekk.badgeglow
+Name: Sonekk Badge Glow
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.badgeglow_1.0.0_iphoneos-arm64e.deb
+Size: 4802
+SHA256: 7946abb2d04740d89d10ca11c9ec2978c9551b0fffad0e4130d33f387949801f
+Description: Red notification badges get a soft glowing pulse.
+
+Package: com.sonekk.statusbloom
+Name: Sonekk Status Bloom
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.statusbloom_1.0.0_iphoneos-arm64e.deb
+Size: 6198
+SHA256: 3cc3f768e13fe5017caf149a4b12867fb6ae885370c4aba750b567ad0b2e4e17
+Description: Soft white light behind the status bar that slowly breathes.
 
 Package: com.sonekk.touchfrost
 Name: Sonekk Touch Frost
