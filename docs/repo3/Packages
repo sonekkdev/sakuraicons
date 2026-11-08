@@ -20,6 +20,17 @@ Size: 67654
 SHA256: 4dc3d6c20cd4bacde89cafd656a2b4084bcc51291a8d0c1276dabe45565b57d5
 Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
 
+Package: com.sonekk.island
+Name: Sonekk Island
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.island_1.0.0_iphoneos-arm64e.deb
+Size: 7102
+SHA256: 52cbe60b4c99de529ed11360486f6e55d1ef2e1cd96cc31fc4807f594a1842fc
+Description: Neon glow around the Dynamic Island - soft breathing baby-blue contour, no system hooks.
+
 Package: com.sonekk.touchfrost
 Name: Sonekk Touch Frost
 Version: 1.1.1
