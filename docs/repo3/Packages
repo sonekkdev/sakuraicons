@@ -130,6 +130,17 @@ Size: 77748
 SHA256: 3aae9cb989b227b31e4158cac360b5cc6d5b06fc36f6e516cb2c05e61fadc95f
 Description: Swiateczne dekoracje: skarpety na Dynamic Island, ramki ikon, ostrokrzew na docku, ramki widgetow. Aplikacja z przelacznikami i podgladem.
 
+Package: com.sonekk.touchgold
+Name: Sonekk Touch Gold
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.touchgold_1.0.0_iphoneos-arm64e.deb
+Size: 23790
+SHA256: 551ec27a5d30ba00038e0c620cf30efeeb59cfc5c153ebbe12bbcaa49cdeedbd
+Description: Swiateczny efekt dotyku - zloty pyl i gwiazdki pod palcem, w kazdej aplikacji. Aplikacja z ustawieniami.
+
 Package: com.sonekk.launch
 Name: Sonekk Launch
 Version: 2.0.0
