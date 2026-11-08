@@ -121,13 +121,13 @@ Description: Soft white light behind the status bar that slowly breathes.
 
 Package: com.sonekk.xmas
 Name: Sonekk Xmas
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.xmas_1.1.0_iphoneos-arm64e.deb
-Size: 52360
-SHA256: 474662fa1f7abb6ac65cd65f237eca37a60b0124b8291a3894bc1c1a583a5819
+Filename: pool/com.sonekk.xmas_1.2.0_iphoneos-arm64e.deb
+Size: 52728
+SHA256: 4cc10dd2771ed5041936cbf6e96fd8f5fef55b845d316035be1e6eec47ae7ea1
 Description: Swiateczne skarpety na Dynamic Island z ramka z laski cukrowej, reakcja na przechylanie telefonu, plus aplikacja z podgladem i suwakiem intensywnosci.
 
 Package: com.sonekk.launch
