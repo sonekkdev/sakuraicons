@@ -141,6 +141,28 @@ Size: 37612
 SHA256: 6294ecdf42b5afde468ca2be2c3eaa62ebf9395521daf2001d24c077eb8470ab
 Description: Swiateczny efekt dotyku - sniezynka, lodowy pyl i pekajaca bombka pod palcem, w kazdej aplikacji.
 
+Package: com.sonekk.labels
+Name: Sonekk Clean Labels
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.labels_1.0.0_iphoneos-arm64e.deb
+Size: 4930
+SHA256: 3c7b954df7a83e9161953c04515d116afb84aa9ed424b09fcd9a482801682bfb
+Description: Ukrywa podpisy pod ikonami na pulpicie. Ustawienia w /var/mobile/Library/Sonekk/labels.json
+
+Package: com.sonekk.nightdim
+Name: Sonekk Night Dim
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.nightdim_1.0.0_iphoneos-arm64e.deb
+Size: 5724
+SHA256: 248c58ec27214912ca4c1faa1e86b6f39dc9228445fad434494f866953326149
+Description: Cieply wieczorny filtr na pulpicie miedzy wybranymi godzinami. Plik nightdim.json
+
 Package: com.sonekk.launch
 Name: Sonekk Launch
 Version: 2.0.0
