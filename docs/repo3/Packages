@@ -108,17 +108,6 @@ Size: 6198
 SHA256: 3cc3f768e13fe5017caf149a4b12867fb6ae885370c4aba750b567ad0b2e4e17
 Description: Soft white light behind the status bar that slowly breathes.
 
-Package: com.sonekk.touchfrost
-Name: Sonekk Touch Frost
-Version: 1.4.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.touchfrost_1.4.0_iphoneos-arm64e.deb
-Size: 22680
-SHA256: 4ee43ce1783caeb7c221ceadefa12025fa81b41fc4f24ecc8e48355ada9a5167
-Description: White winter touch effect - thicker falling snow, ice glow, trail and shimmer ring, soft white glow on home screen icons. Never disables itself.
-
 Package: com.sonekk.launch
 Name: Sonekk Launch
 Version: 2.0.0
@@ -129,25 +118,3 @@ Filename: pool/com.sonekk.launch_2.0.0_iphoneos-arm64e.deb
 Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
-
-Package: com.sonekk.switzachs
-Name: Switzach Speed
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.switzachs_1.0.0_iphoneos-arm64e.deb
-Size: 3132
-SHA256: 150c3e259ce3f820b692a3fb56776ddb3bb172f0cc8d97861b0acf5e899e9be7
-Description: Speeds up SpringBoard animations, app open/close transitions and window animations.
-
-Package: com.sonekk.motion
-Name: Sonekk Motion
-Version: 1.4.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.motion_1.4.0_iphoneos-arm64e.deb
-Size: 12292
-SHA256: 55e5b7d4db2b057d746c4b80320f7b7800e9bab486d83802210805cfeff2ce03
-Description: App open zoom from the icon, animated page transitions with wallpaper parallax, soft app close and a launch dim. Settings in /var/mobile/Library/SonekkMotion/settings.json
