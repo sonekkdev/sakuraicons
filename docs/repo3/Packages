@@ -174,6 +174,28 @@ Size: 7880
 SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
 Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
 
+Package: com.sonekk.depth
+Name: Sonekk Depth
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.depth_1.0.0_iphoneos-arm64e.deb
+Size: 8424
+SHA256: 4ff63c71e1270e1c7c6ec388a2cc9155613c9cc772f47511b8bab6d1edaed569
+Description: Miekkie swiatlo i paralaksa na pulpicie - trzy kolorowe orby drzace z ruchem telefonu oraz szklana winieta. Bez zmiany ukladu ikon.
+
+Package: com.sonekk.snowfall2
+Name: Sonekk Snowfall 2
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sonekk
+Section: Tweaks
+Filename: pool/com.sonekk.snowfall2_1.0.0_iphoneos-arm64e.deb
+Size: 8346
+SHA256: 6d2577477a924e854f2e1967e4bbd5fb659c70770e6cb63ff5f4e3b34c0ff49b
+Description: Prawdziwy, wolno padajacy snieg na pulpicie. 90 platkow, wiatr, kolysanie, 30 fps. Dziala tylko na pulpicie.
+
 Package: com.sonekk.xmasfx
 Name: Sonekk Xmas FX
 Version: 1.0.0
