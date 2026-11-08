@@ -22,14 +22,14 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 
 Package: com.sonekk.island
 Name: Sonekk Island
-Version: 1.6.2
+Version: 1.7.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.island_1.6.2_iphoneos-arm64e.deb
-Size: 10110
-SHA256: ac2324f55f782c4cb7dd91fb7bfda2bf5c83ffec26f2d59674bae27302085684
-Description: White neon glow around the Dynamic Island with falling snow. SpringBoard only - no per-app injection, no touch risk.
+Filename: pool/com.sonekk.island_1.7.0_iphoneos-arm64e.deb
+Size: 8398
+SHA256: d6aa101bd9a46a7a131cbd69f2da471ac663af8651ce01296f784bd7217d0ac7
+Description: White neon glow around the Dynamic Island. No snow, no extra layer over the screen. SpringBoard only.
 
 Package: com.sonekk.snowfall
 Name: Sonekk Snowfall
