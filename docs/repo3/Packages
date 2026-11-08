@@ -176,11 +176,11 @@ Description: Launch feel pack: instant haptic feedback, home screen dip and a fa
 
 Package: com.sonekk.xmaslock
 Name: Sonekk Xmas Lock
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.xmaslock_1.0.0_iphoneos-arm64e.deb
-Size: 282690
-SHA256: bf8a308e06d2a637ba5f9b616c6dd5198efac3830e93041c724c89257cd3ec7f
+Filename: pool/com.sonekk.xmaslock_1.1.0_iphoneos-arm64e.deb
+Size: 282554
+SHA256: b8fc37fb4ce4b8cf312485a334b49ac55fd96ed5640c70e1cd711c7f494a8ac1
 Description: Swiateczny lock screen - zegar w bialo-czerwone paski jak laska cukrowa, czerwony skaner palca, ostrokrzew przy dacie.
