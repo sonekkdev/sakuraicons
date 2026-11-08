@@ -132,14 +132,14 @@ Description: Swiateczne dekoracje: skarpety na Dynamic Island, ramki ikon, ostro
 
 Package: com.sonekk.touchgold
 Name: Sonekk Touch Gold
-Version: 1.0.4
+Version: 2.0.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.touchgold_1.0.4_iphoneos-arm64e.deb
-Size: 25714
-SHA256: 824d2e449dede3911ebf0a0a7077a342dab238b51794b191404a39d6521d6d43
-Description: Swiateczny efekt dotyku - zloty pyl i gwiazdki pod palcem, w kazdej aplikacji. Aplikacja z ustawieniami.
+Filename: pool/com.sonekk.touchgold_2.0.0_iphoneos-arm64e.deb
+Size: 32660
+SHA256: 268e5f9152889753447c5d1032509616bd9a6c72cc0b239f9fd3ca93f11aa69a
+Description: Swiateczny efekt dotyku - sniezynka, lodowy pyl i pekajaca bombka pod palcem, w kazdej aplikacji.
 
 Package: com.sonekk.launch
 Name: Sonekk Launch
