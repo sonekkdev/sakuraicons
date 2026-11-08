@@ -176,13 +176,13 @@ Description: Launch feel pack: instant haptic feedback, home screen dip and a fa
 
 Package: com.sonekk.appstudio
 Name: App Studio
-Version: 1.0.9
+Version: 1.0.10
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Utilities
-Filename: pool/com.sonekk.appstudio_1.0.9_iphoneos-arm64e.deb
-Size: 69966
-SHA256: 25f4c64649d6800416702f5b8de4d355dbd443d64b95a73ce6d0b03b85f7519d
+Filename: pool/com.sonekk.appstudio_1.0.10_iphoneos-arm64e.deb
+Size: 70914
+SHA256: d739a2dcc036d6a2e8ff1841b16935d3917b70c2feae7d3593d7af8e6b1c2390
 Description: Buduj male aplikacje rozmawiajac z AI. Kazda apka dostaje ikone z Twoich zdjec i instaluje sie na pulpicie.
 
 Package: com.sonekk.xmaslock
