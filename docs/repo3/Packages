@@ -22,14 +22,14 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 
 Package: com.sonekk.island
 Name: Sonekk Island
-Version: 1.5.0
+Version: 1.6.0
 Architecture: iphoneos-arm64e
 Maintainer: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.island_1.5.0_iphoneos-arm64e.deb
-Size: 10726
-SHA256: 38edfe826d718033c43ff01bfb27fec8d26bf8384c90bd62d3e2eb3136b6fd28
-Description: White neon glow around the Dynamic Island with falling snow, works in every app, tap pulse, no charging effects. New apps auto-detected on install.
+Filename: pool/com.sonekk.island_1.6.0_iphoneos-arm64e.deb
+Size: 9798
+SHA256: d443b37f71e28b80664122b42d14c999f3fbf745a91c5035270fe51791cafd65
+Description: White neon glow around the Dynamic Island with falling snow. SpringBoard only - no per-app injection, no touch risk.
 
 Package: com.sonekk.snowfall
 Name: Sonekk Snowfall
@@ -52,28 +52,6 @@ Filename: pool/com.sonekk.starfield_1.0.0_iphoneos-arm64e.deb
 Size: 6544
 SHA256: 1cb231f76d469f0fc3a79f6f2fb774dd2ab4ed3711e5eb4e8d073647f2f7ffef
 Description: Slow drifting white stars/sparks across the screen - calm, non-interactive overlay.
-
-Package: com.sonekk.frostframe
-Name: Sonekk Frost Frame
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.frostframe_1.0.0_iphoneos-arm64e.deb
-Size: 6668
-SHA256: 6a1d7e700c0110ca8dba434d42e5231f301f35b656fa89e1bc5f4a7bc860adbc
-Description: Icy white glow frame around the screen edges with a breathing rim.
-
-Package: com.sonekk.vignette
-Name: Sonekk Vignette
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.vignette_1.0.0_iphoneos-arm64e.deb
-Size: 6334
-SHA256: fcfd20c160f06e2054679233146eeb06d205301d0ce41d5b7852d1ad6211c6af
-Description: Soft cinematic vignette with a light bloom at the top - makes wallpapers pop.
 
 Package: com.sonekk.aurora
 Name: Sonekk Aurora
