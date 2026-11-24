@@ -1,83 +1,83 @@
 Package: com.sonekk.glass.island
 Name: Glass Island
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
-Description: Dark glass ring around the Dynamic Island.
+Description: Glass edge around the notch on iPhone X/XS/11, around the Dynamic Island on 14 Pro and later.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.island_1.0.0_iphoneos-arm64e.deb
-Size: 11486
-MD5sum: 5d3545dc54b366110d127d033dc6915f
-SHA256: 4e0f0a33c51fde6a24e10361eeab912bb080c8fbc1b8cf978a52a12755640804
+Filename: pool/com.sonekk.glass.island_1.1.0_iphoneos-arm64e.deb
+Size: 11584
+MD5sum: 7e7db3c9889d51a85a485cd9cc682f69
+SHA256: c3bebeb7a79e405c683704fb9f28819ec2a66bcf0e9902ef02b74ee0e872951c
 
 Package: com.sonekk.glass.iconglass
 Name: Glass Icons
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Description: Black glossy plate behind every home screen icon.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.iconglass_1.0.0_iphoneos-arm64e.deb
-Size: 11500
-MD5sum: 73d4eddad997b22b6bf89da0146c1049
-SHA256: 9ebf55fddb3865f6145f27d14e14ebf915425cf3dd4ea66544e44e22b939db16
+Filename: pool/com.sonekk.glass.iconglass_1.1.0_iphoneos-arm64e.deb
+Size: 11568
+MD5sum: 097f54e81470fc83e9891cbb3d6faef5
+SHA256: 054c02d579047535f661e944512ce74431a25f0206db08ce5e0191c2a4034648
 
 Package: com.sonekk.glass.dockglass
 Name: Glass Dock
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Description: Glass shelf under the dock.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.dockglass_1.0.0_iphoneos-arm64e.deb
-Size: 11482
-MD5sum: ee7d8397231b529201e630cbac6f75bb
-SHA256: f51dee198e36d23fe92af5768759433f4a8feec6c6a60141e88b24d2a2e1ada6
+Filename: pool/com.sonekk.glass.dockglass_1.1.0_iphoneos-arm64e.deb
+Size: 11550
+MD5sum: b77f2b113230286fe183f4f2b424c9af
+SHA256: 9e89a990d5338a86aaa0d880386e4fe3afda86a26717cb53858d74420903fd1e
 
 Package: com.sonekk.glass.badgeglass
 Name: Glass Badges
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Description: Glossy black badge with a tinted ring.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.badgeglass_1.0.0_iphoneos-arm64e.deb
-Size: 11494
-MD5sum: 09461adcaad70026babef1212d790dcd
-SHA256: fd0c68d90a9d438fdd5b9dc0b3f65e40a19936686fc9ee9c1b651d8d022f910a
+Filename: pool/com.sonekk.glass.badgeglass_1.1.0_iphoneos-arm64e.deb
+Size: 11562
+MD5sum: e0cfb783d41a1ac946ab78d728c3fc35
+SHA256: 34126cbf2de36cf246102fd920671f111d9e770f77b0f5ec25a6cad6a1d14432
 
 Package: com.sonekk.glass.statusgloss
 Name: Status Gloss
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Description: Soft gloss falling from the top edge.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.statusgloss_1.0.0_iphoneos-arm64e.deb
-Size: 11494
-MD5sum: e2c5b28a7e5577ff9178c0a2783a2b86
-SHA256: 6726f6ba632a02c275ee20dfe1d40d5f6601a6bc33c842a49ea2a16de81f870b
+Filename: pool/com.sonekk.glass.statusgloss_1.1.0_iphoneos-arm64e.deb
+Size: 11562
+MD5sum: 31d927e1a6d216b2d0c636f74109f259
+SHA256: ffb41485d6bb66f7f2fabe97903b2934397512591625eb45cbea01e0cb71d429
 
 Package: com.sonekk.glass.ink
 Name: Ink Touch
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64e
 Description: Ink ripple under every touch on the home screen.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.ink_1.0.0_iphoneos-arm64e.deb
-Size: 11492
-MD5sum: 143bbc6ffd47dfb1beb85f9792eb4ae2
-SHA256: 7851e96a42525ef37b1e2a49e2f8994df910502c35c7c1aa5e8206e8a3fe5a30
+Filename: pool/com.sonekk.glass.ink_1.1.0_iphoneos-arm64e.deb
+Size: 11560
+MD5sum: dbbe7b89f6c5ba87e064fb558809771a
+SHA256: 28f5fa4cc9eee901a6d5a5dacad519099ae8309055c757b798b25632f38fc067
