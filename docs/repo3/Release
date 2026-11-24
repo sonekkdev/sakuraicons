@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
 Description: Sonekk tweaks for Switzach
-Date: Tue, 24 Nov 2026 22:05:37 +0000
+Date: Tue, 24 Nov 2026 22:10:48 +0000
 MD5Sum:
- 67b8810a1bacce888ba24fd476dc8e14 3509 Packages
- 0f537c161eb693f6fb782f2a7d648dae 1163 Packages.gz
+ fe0d0ccf36c41b5cfe4f0fa23bbe351b 3946 Packages
+ 65e58e0d661a9deace603990b88c3403 1311 Packages.gz
 SHA256:
- 229237efba5d3ace140fbf7d218066ed1bfdc2a567a3ab4f5acb930426fb2c1c 3509 Packages
- f883ff44fc3d5c4071b87b044a3641b99e3d0c1329bf629e3f62cf4238db50e5 1163 Packages.gz
+ b5e2d6ecc0ce538660a39ba9863a48002da31a9bb8214019569c933a8a59885a 3946 Packages
+ f1365a9d3ff05285ad09939b234eddb949da4c93b6c4f5a95514bfa6780122b6 1311 Packages.gz

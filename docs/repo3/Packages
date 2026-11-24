@@ -8,9 +8,9 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.island_1.1.0_iphoneos-arm64e.deb
-Size: 11590
-MD5sum: b7c6d17766bb45f5b248c3d70d0d16fd
-SHA256: c19dab7a611d0b4c3d37e30d8bd41521eba2deaf3e81e9be07631d4bf21e5646
+Size: 11588
+MD5sum: fd13446faae03478892843bac8fd148d
+SHA256: 4b40d5e14d9913f82ed0c254a130645e95589d1a1611b090ec70b33ff42b5619
 
 Package: com.sonekk.glass.iconglass
 Name: Glass Icons
@@ -22,9 +22,9 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.iconglass_1.1.0_iphoneos-arm64e.deb
-Size: 11572
-MD5sum: 198f4fd3af85444a1df6b286f337176f
-SHA256: 5e85dabd4721ae01112bd6e294ae9bec2c6589da79b93a6e7921a11c56b876a7
+Size: 11570
+MD5sum: db4424683e63b5d2091239e8704c2b96
+SHA256: 2e3d9d62568263e5535829a84f215b6bfcbd6269d4eac4bbd9835678afd3648d
 
 Package: com.sonekk.glass.dockglass
 Name: Glass Dock
@@ -36,9 +36,9 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.dockglass_1.1.0_iphoneos-arm64e.deb
-Size: 11554
-MD5sum: da6be1dfcb0cb599f2f388f01f15efbd
-SHA256: c867ac9daf8cf29251ceadbcbf2e99131f1cfcbbaba219603c88356d0e00b429
+Size: 11552
+MD5sum: d76002fc5c63b79ea5d1674244ad3fa8
+SHA256: a31538cd9ab29036fce962de78a011c41f7892c9a3a8121e993608ebbedb38c9
 
 Package: com.sonekk.glass.badgeglass
 Name: Glass Badges
@@ -50,9 +50,9 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.badgeglass_1.1.0_iphoneos-arm64e.deb
-Size: 11564
-MD5sum: 4884064ca787e60bb119483ec9b1bf96
-SHA256: 54fe958e0ddccb253215546332f13a98b73631451dd5eacf7a2e4e279eade30c
+Size: 11562
+MD5sum: 5300ffd0968728ae815c5ad0b72222e2
+SHA256: 67a79ad31950d7072bc381f4a803c8a195be3333f2f4091620095d201040c430
 
 Package: com.sonekk.glass.statusgloss
 Name: Status Gloss
@@ -64,9 +64,9 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.statusgloss_1.1.0_iphoneos-arm64e.deb
-Size: 11566
-MD5sum: f7a8cd1da402767b654cfe75d90231ae
-SHA256: 1000b33d0108ab10bf1bbc25232ddcdf74c007deb0658c345c5cfb33081b8407
+Size: 11564
+MD5sum: 8d05c49b5ba12d420d12d1c821b4a40c
+SHA256: b56c35288a096bfcb5468f9fafb4eed91e3338cf53e1be554caa749aa288151b
 
 Package: com.sonekk.glass.ink
 Name: Ink Touch
@@ -78,9 +78,23 @@ Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: pool/com.sonekk.glass.ink_1.1.0_iphoneos-arm64e.deb
-Size: 11564
-MD5sum: c92bcad4e1da32ad451d70df6c734e7f
-SHA256: 88c069f571f08d4b28056080a8d3c2975193581361c7bb11e2732d20748a68cd
+Size: 11562
+MD5sum: 6e1e6eee638221e1b063333fde5a86a1
+SHA256: 57081da88c3dadc33828d6381003704c2c01db0c44efc9f0d6e020fe772c5a30
+
+Package: com.sonekk.widgetstudio
+Name: Widget Studio
+Version: 1.9.1
+Architecture: iphoneos-arm64e
+Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
+Maintainer: sonekk
+Author: sonekk
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.widgetstudio_1.9.1_iphoneos-arm64e.deb
+Size: 67654
+MD5sum: 843e9b08c14c9049f85832de6668f77d
+SHA256: 4dc3d6c20cd4bacde89cafd656a2b4084bcc51291a8d0c1276dabe45565b57d5
 
 Package: com.sonekk.glass.cleanup
 Name: Glass Cleanup
@@ -91,8 +105,8 @@ Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Depends: mobilesubstrate
-Conflicts: com.sonekk.sonekkoslock, com.sonekk.widgetstudio, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio
+Conflicts: com.sonekk.sonekkoslock, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio
 Filename: pool/com.sonekk.glass.cleanup_1.1.0_iphoneos-arm64e.deb
-Size: 1190
-MD5sum: 3d69d63f519a5701e6cd2dc123221aa4
-SHA256: 56e11458c9f7aa41a6a881824f756edad5e2724609f90509c38956b313964518
+Size: 1180
+MD5sum: 1926a8d83899e3279e6dd7e2f17f5c61
+SHA256: d22ea0ab93e71ca4a8f19647d33673dfd38fdbac96da5ef12d74b0c7761258c7
