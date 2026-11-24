@@ -1,86 +1,16 @@
-Package: com.sonekk.glass.island
-Name: Glass Island
-Version: 1.1.0
+Package: com.sonekk.glass
+Name: Sonekk Glass
+Version: 1.3.0
 Architecture: iphoneos-arm64e
-Description: Glass edge around the notch on iPhone X/XS/11, around the Dynamic Island on 14 Pro and later.
+Description: Dark glossy SpringBoard overlay pack with a control app.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.island_1.1.0_iphoneos-arm64e.deb
-Size: 11586
-MD5sum: caefb451b4d2faf43f51c146081c46be
-SHA256: 5b4e434576a8312d8199af0f352d7eda9f55432d7d371f3b3f3d4e313b5103af
-
-Package: com.sonekk.glass.iconglass
-Name: Glass Icons
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Black glossy plate behind every home screen icon.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.iconglass_1.1.0_iphoneos-arm64e.deb
-Size: 11570
-MD5sum: 0be592c33fe1649a7454736b1e726ad4
-SHA256: 6fdc73e10834c32d2d4f10299ab23d1cb7e71c31e5b0d2acbc42b7961c529486
-
-Package: com.sonekk.glass.dockglass
-Name: Glass Dock
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Glass shelf under the dock.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.dockglass_1.1.0_iphoneos-arm64e.deb
-Size: 11552
-MD5sum: 2aa7cd3466ead32da2fca964b39e3283
-SHA256: c3eb08a819f110233cea273648047b0e5020dc0f8ab424585d4a38b42ddd98f0
-
-Package: com.sonekk.glass.badgeglass
-Name: Glass Badges
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Glossy black badge with a tinted ring.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.badgeglass_1.1.0_iphoneos-arm64e.deb
-Size: 11562
-MD5sum: 3a5bc537e89c6bc0592aafd8280b738c
-SHA256: f833297b86327b451cdcb2dce4b644396f3a0838fa16382d5d3acb0972b83865
-
-Package: com.sonekk.glass.statusgloss
-Name: Status Gloss
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Soft gloss falling from the top edge.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.statusgloss_1.1.0_iphoneos-arm64e.deb
-Size: 11564
-MD5sum: 486f768cd2c484721e7d2fe497a5d861
-SHA256: 49b497a1d8b36b41b949989cbc232d1086a0b714c8995c8e6c9059e6f749e9a9
-
-Package: com.sonekk.glass.ink
-Name: Ink Touch
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Ink ripple under every touch on the home screen.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: pool/com.sonekk.glass.ink_1.1.0_iphoneos-arm64e.deb
-Size: 11562
-MD5sum: 69e97dfb1f74f70da9428583a7310141
-SHA256: c12e32719888455f04eb2ea0b54ecfa8e944f6b93a5ead75f3d0becf98585545
+Conflicts: com.sonekk.sonekkoslock, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio, com.sonekk.glass.island, com.sonekk.glass.iconglass, com.sonekk.glass.dockglass, com.sonekk.glass.badgeglass, com.sonekk.glass.statusgloss, com.sonekk.glass.ink
+Filename: pool/com.sonekk.glass_1.3.0_iphoneos-arm64e.deb
+Size: 23592
+MD5sum: f47a80add2db6a89636e750306d9a44a
+SHA256: 1df18cea3cf64dc5eaaa9caa381ab3b86fb6f2ac6a52a0dc10a4b72ec4bb82e4
 
 Package: com.sonekk.widgetstudio
 Name: Widget Studio
@@ -90,23 +20,7 @@ Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane n
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
-Depends: mobilesubstrate
 Filename: pool/com.sonekk.widgetstudio_1.9.1_iphoneos-arm64e.deb
 Size: 67654
 MD5sum: 843e9b08c14c9049f85832de6668f77d
 SHA256: 4dc3d6c20cd4bacde89cafd656a2b4084bcc51291a8d0c1276dabe45565b57d5
-
-Package: com.sonekk.glass.cleanup
-Name: Glass Cleanup
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Description: Removes the old Christmas and glow packages left on the device.
-Maintainer: sonekk
-Author: sonekk
-Section: Tweaks
-Depends: mobilesubstrate
-Conflicts: com.sonekk.sonekkoslock, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio
-Filename: pool/com.sonekk.glass.cleanup_1.1.0_iphoneos-arm64e.deb
-Size: 1180
-MD5sum: ceb5da300ad538b481f5f4bc8ee1f5be
-SHA256: 2b679f6667d44b73d2b4750e38fba84bba4ccfce2bb8e7d8d4fdffb26de77260
