@@ -1,0 +1,5 @@
+* -text
+*.deb binary
+*.gz binary
+Packages text eol=lf
+Release text eol=lf
