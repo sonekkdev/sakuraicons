@@ -1,3 +1,17 @@
+Package: com.sonekk.aurora
+Name: Sonekk Aurora
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: Zimowe szklo: wyspa, ikony, snieg, mgla
+Maintainer: sonekk
+Author: sonekk
+Section: Tweaks
+Installed-Size: 173
+Filename: pool/com.sonekk.aurora_1.0.0_iphoneos-arm64e.deb
+Size: 31112
+MD5sum: 99565f5726b484067370bb5198c4646f
+SHA256: 6e0c77fcda8e9124b508c383f517f7925b668a144328a33e84de1fee56296f12
+
 Package: com.sonekk.glass
 Name: Sonekk Glass
 Version: 1.6.0
@@ -7,6 +21,7 @@ Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Conflicts: com.sonekk.sonekkoslock, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio, com.sonekk.glass.island, com.sonekk.glass.iconglass, com.sonekk.glass.dockglass, com.sonekk.glass.badgeglass, com.sonekk.glass.statusgloss, com.sonekk.glass.ink
+Filename: pool/com.sonekk.glass_1.6.0_iphoneos-arm64e.deb
 Filename: pool/com.sonekk.glass_1.6.0_iphoneos-arm64e.deb
 Size: 24364
 MD5sum: 7a0b9b3e5de3d306332b481f3ddc2017
