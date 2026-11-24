@@ -1,16 +1,16 @@
 Package: com.sonekk.glass
 Name: Sonekk Glass
-Version: 1.3.1
+Version: 1.4.0
 Architecture: iphoneos-arm64e
 Description: Dark glossy SpringBoard overlay pack with a control app.
 Maintainer: sonekk
 Author: sonekk
 Section: Tweaks
 Conflicts: com.sonekk.sonekkoslock, com.sonekk.island, com.sonekk.snowfall, com.sonekk.snowfall2, com.sonekk.starfield, com.sonekk.aurora, com.sonekk.iconglow, com.sonekk.iconpulse, com.sonekk.dockglow, com.sonekk.badgeglow, com.sonekk.statusbloom, com.sonekk.xmas, com.sonekk.xmasfx, com.sonekk.xmaslock, com.sonekk.touchgold, com.sonekk.charge, com.sonekk.labels, com.sonekk.nightdim, com.sonekk.launch, com.sonekk.depth, com.sonekk.sounds, com.sonekk.appstudio, com.sonekk.glass.island, com.sonekk.glass.iconglass, com.sonekk.glass.dockglass, com.sonekk.glass.badgeglass, com.sonekk.glass.statusgloss, com.sonekk.glass.ink
-Filename: pool/com.sonekk.glass_1.3.1_iphoneos-arm64e.deb
-Size: 23964
-MD5sum: 0c1432ceec1a4e55cbae816ed5ccf4b3
-SHA256: dcbb3b68885cdf13f481c5e4e74455c67745cf5046205c92226bad91e5568b3e
+Filename: pool/com.sonekk.glass_1.4.0_iphoneos-arm64e.deb
+Size: 23242
+MD5sum: 10232afb89001e51fa8d00a105a3b3dd
+SHA256: 5b2c9c09c4cd0618d838130f47796a4a18f883be70df9fa9f7016a5896779f6e
 
 Package: com.sonekk.widgetstudio
 Name: Widget Studio
