@@ -1,252 +1,83 @@
-Package: com.sonekk.sonekkoslock
-Name: Sonekk Lock
-Version: 4.5.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.sonekkoslock_4.5.0_iphoneos-arm64e.deb
-Size: 281742
-SHA256: cfe19995b8574c3f90c55b7c4def0a29ad5444aa87c0c91f5df1fcfebde37b24
-Description: Winter lock screen - layered motion, large ice clock with baby-blue halo, glass fingerprint button with ring/bloom unlock, draggable lock stickers.
-
-Package: com.sonekk.widgetstudio
-Name: Widget Studio
-Version: 1.9.1
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.widgetstudio_1.9.1_iphoneos-arm64e.deb
-Size: 67654
-SHA256: 4dc3d6c20cd4bacde89cafd656a2b4084bcc51291a8d0c1276dabe45565b57d5
-Description: Widgety ze swoich zdjec (zegar, bateria, combo, foto), przesuwane na home screenie.
-
-Package: com.sonekk.island
-Name: Sonekk Island
-Version: 1.7.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.island_1.7.0_iphoneos-arm64e.deb
-Size: 8398
-SHA256: d6aa101bd9a46a7a131cbd69f2da471ac663af8651ce01296f784bd7217d0ac7
-Description: White neon glow around the Dynamic Island. No snow, no extra layer over the screen. SpringBoard only.
-
-Package: com.sonekk.snowfall
-Name: Sonekk Snowfall
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.snowfall_1.0.2_iphoneos-arm64e.deb
-Size: 7574
-SHA256: 0876cc9b1062fd001a5b3378f39ff97df819487bc5e5dc7b6e6491cf34718bfd
-Description: Ambient white snowfall over the whole screen - two depth layers, no hooks, non-interactive.
-
-Package: com.sonekk.starfield
-Name: Sonekk Starfield
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.starfield_1.0.2_iphoneos-arm64e.deb
-Size: 6920
-SHA256: 62254ae9d67ea27b83e7cc9afbc8c305d6f3da3a1f97f91f3a70fbd01e6bf64a
-Description: Slow drifting white stars/sparks across the screen - calm, non-interactive overlay.
-
-Package: com.sonekk.aurora
-Name: Sonekk Aurora
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.aurora_1.0.2_iphoneos-arm64e.deb
-Size: 7508
-SHA256: d43dfe98e7d00d16a9fc5cd4fb59945891e88459bd16ba4b81d861d294db10fe
-Description: Slow white aurora light drifting along the top of the screen.
-
-Package: com.sonekk.iconglow
-Name: Sonekk Icon Glow
-Version: 1.2.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.iconglow_1.2.0_iphoneos-arm64e.deb
-Size: 6968
-SHA256: c31a31856516211f4b5a4565152dd5790065876943b345d2af0506c0c6c8beff
-Description: White breathing halo hugging the icon artwork (not the label), pre-rendered layer, 120 Hz.
-
-Package: com.sonekk.iconpulse
-Name: Sonekk Icon Pulse
+Package: com.sonekk.glass.island
+Name: Glass Island
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Dark glass ring around the Dynamic Island.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.iconpulse_1.0.0_iphoneos-arm64e.deb
-Size: 9560
-SHA256: 805c2be75a3544979358f6d578fe8abe217603b293ab35b79450f73158c8ce6a
-Description: White breathing halo hugging the icon artwork (not the label), pre-rendered layer, 120 Hz.
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.island_1.0.0_iphoneos-arm64e.deb
+Size: 11486
+MD5sum: 5d3545dc54b366110d127d033dc6915f
+SHA256: 4e0f0a33c51fde6a24e10361eeab912bb080c8fbc1b8cf978a52a12755640804
 
-Package: com.sonekk.dockglow
-Name: Sonekk Dock Glow
+Package: com.sonekk.glass.iconglass
+Name: Glass Icons
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Black glossy plate behind every home screen icon.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.dockglow_1.0.0_iphoneos-arm64e.deb
-Size: 6966
-SHA256: 40777128e3683dbcb3f71c708fee4b08c6e5f1b1ba0916148f69a3d128672bbc
-Description: White breathing halo behind every dock icon, pre-rendered layer, no layout changes.
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.iconglass_1.0.0_iphoneos-arm64e.deb
+Size: 11500
+MD5sum: 73d4eddad997b22b6bf89da0146c1049
+SHA256: 9ebf55fddb3865f6145f27d14e14ebf915425cf3dd4ea66544e44e22b939db16
 
-Package: com.sonekk.badgeglow
-Name: Sonekk Badge Glow
+Package: com.sonekk.glass.dockglass
+Name: Glass Dock
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Glass shelf under the dock.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.badgeglow_1.0.0_iphoneos-arm64e.deb
-Size: 4802
-SHA256: 7946abb2d04740d89d10ca11c9ec2978c9551b0fffad0e4130d33f387949801f
-Description: Red notification badges get a soft glowing pulse.
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.dockglass_1.0.0_iphoneos-arm64e.deb
+Size: 11482
+MD5sum: ee7d8397231b529201e630cbac6f75bb
+SHA256: f51dee198e36d23fe92af5768759433f4a8feec6c6a60141e88b24d2a2e1ada6
 
-Package: com.sonekk.statusbloom
-Name: Sonekk Status Bloom
+Package: com.sonekk.glass.badgeglass
+Name: Glass Badges
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Glossy black badge with a tinted ring.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.statusbloom_1.0.0_iphoneos-arm64e.deb
-Size: 6198
-SHA256: 3cc3f768e13fe5017caf149a4b12867fb6ae885370c4aba750b567ad0b2e4e17
-Description: Soft white light behind the status bar that slowly breathes.
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.badgeglass_1.0.0_iphoneos-arm64e.deb
+Size: 11494
+MD5sum: 09461adcaad70026babef1212d790dcd
+SHA256: fd0c68d90a9d438fdd5b9dc0b3f65e40a19936686fc9ee9c1b651d8d022f910a
 
-Package: com.sonekk.xmas
-Name: Sonekk Xmas
-Version: 1.16.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.xmas_1.16.0_iphoneos-arm64e.deb
-Size: 77748
-SHA256: 3aae9cb989b227b31e4158cac360b5cc6d5b06fc36f6e516cb2c05e61fadc95f
-Description: Swiateczne dekoracje: skarpety na Dynamic Island, ramki ikon, ostrokrzew na docku, ramki widgetow. Aplikacja z przelacznikami i podgladem.
-
-Package: com.sonekk.touchgold
-Name: Sonekk Touch Gold
-Version: 2.1.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.touchgold_2.1.0_iphoneos-arm64e.deb
-Size: 37612
-SHA256: 6294ecdf42b5afde468ca2be2c3eaa62ebf9395521daf2001d24c077eb8470ab
-Description: Swiateczny efekt dotyku - sniezynka, lodowy pyl i pekajaca bombka pod palcem, w kazdej aplikacji.
-
-Package: com.sonekk.labels
-Name: Sonekk Clean Labels
+Package: com.sonekk.glass.statusgloss
+Name: Status Gloss
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Soft gloss falling from the top edge.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.labels_1.0.0_iphoneos-arm64e.deb
-Size: 4930
-SHA256: 3c7b954df7a83e9161953c04515d116afb84aa9ed424b09fcd9a482801682bfb
-Description: Ukrywa podpisy pod ikonami na pulpicie. Ustawienia w /var/mobile/Library/Sonekk/labels.json
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.statusgloss_1.0.0_iphoneos-arm64e.deb
+Size: 11494
+MD5sum: e2c5b28a7e5577ff9178c0a2783a2b86
+SHA256: 6726f6ba632a02c275ee20dfe1d40d5f6601a6bc33c842a49ea2a16de81f870b
 
-Package: com.sonekk.nightdim
-Name: Sonekk Night Dim
+Package: com.sonekk.glass.ink
+Name: Ink Touch
 Version: 1.0.0
 Architecture: iphoneos-arm64e
+Description: Ink ripple under every touch on the home screen.
 Maintainer: sonekk
+Author: sonekk
 Section: Tweaks
-Filename: pool/com.sonekk.nightdim_1.0.0_iphoneos-arm64e.deb
-Size: 5724
-SHA256: 248c58ec27214912ca4c1faa1e86b6f39dc9228445fad434494f866953326149
-Description: Cieply wieczorny filtr na pulpicie miedzy wybranymi godzinami. Plik nightdim.json
-
-Package: com.sonekk.launch
-Name: Sonekk Launch
-Version: 2.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.launch_2.0.0_iphoneos-arm64e.deb
-Size: 7880
-SHA256: 782b4ca545adfc807e2e88376eedb3266854a3420d6f5e7f7db33b19a4314eb2
-Description: Launch feel pack: instant haptic feedback, home screen dip and a fade/zoom for the incoming app window.
-
-Package: com.sonekk.depth
-Name: Sonekk Depth
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.depth_1.0.0_iphoneos-arm64e.deb
-Size: 8424
-SHA256: 4ff63c71e1270e1c7c6ec388a2cc9155613c9cc772f47511b8bab6d1edaed569
-Description: Miekkie swiatlo i paralaksa na pulpicie - trzy kolorowe orby drzace z ruchem telefonu oraz szklana winieta. Bez zmiany ukladu ikon.
-
-Package: com.sonekk.snowfall2
-Name: Sonekk Snowfall 2
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.snowfall2_1.0.0_iphoneos-arm64e.deb
-Size: 8346
-SHA256: 6d2577477a924e854f2e1967e4bbd5fb659c70770e6cb63ff5f4e3b34c0ff49b
-Description: Prawdziwy, wolno padajacy snieg na pulpicie. 90 platkow, wiatr, kolysanie, 30 fps. Dziala tylko na pulpicie.
-
-Package: com.sonekk.xmasfx
-Name: Sonekk Xmas FX
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.xmasfx_1.0.0_iphoneos-arm64e.deb
-Size: 28616
-SHA256: bef18aa35919e4ab3044cc5388c0ed947ff53f14903fa88978e8a6d0afac1834
-Description: Trzy swiateczne efekty w jednej paczce - animacja odblokowania, poswiata przy powiadomieniach i szklany HUD glosnosci. Kazdy modul wylaczysz w aplikacji.
-
-Package: com.sonekk.charge
-Name: Sonekk Charge
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.charge_1.0.0_iphoneos-arm64e.deb
-Size: 10548
-SHA256: f1baeb8f1cf3c64548fe705c1b0318cd3f210affa69e0adfbe24d8c8d918b789
-Description: Swiateczna animacja ladowania - czerwona poswiata, pierscien i sniezynka rysowana kreska po kresce. Pojawia sie na 2 sekundy po podlaczeniu kabla.
-
-Package: com.sonekk.sounds
-Name: Sonekk Sounds
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.sounds_1.0.1_iphoneos-arm64e.deb
-Size: 47598
-SHA256: 5ac2fdefc2f57de4d87355bf74578d869b0fd981d49f93e4ece4b2bd34214fe0
-Description: Krotki, czysty dzwiek dotkniecia na pulpicie i ekranie blokady. Trzy dzwieki albo Twoj wlasny plik.
-
-Package: com.sonekk.appstudio
-Name: App Studio
-Version: 1.0.13
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Utilities
-Filename: pool/com.sonekk.appstudio_1.0.13_iphoneos-arm64e.deb
-Size: 75182
-SHA256: 0c63099c653a398a811bf3d1b02000f6f4c0021582b368bf250415a57f994e53
-Description: Buduj male aplikacje rozmawiajac z AI. Kazda apka dostaje ikone z Twoich zdjec i instaluje sie na pulpicie.
-
-Package: com.sonekk.xmaslock
-Name: Sonekk Xmas Lock
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: sonekk
-Section: Tweaks
-Filename: pool/com.sonekk.xmaslock_1.1.0_iphoneos-arm64e.deb
-Size: 282554
-SHA256: b8fc37fb4ce4b8cf312485a334b49ac55fd96ed5640c70e1cd711c7f494a8ac1
-Description: Swiateczny lock screen - zegar w bialo-czerwone paski jak laska cukrowa, czerwony skaner palca, ostrokrzew przy dacie.
+Depends: mobilesubstrate
+Filename: pool/com.sonekk.glass.ink_1.0.0_iphoneos-arm64e.deb
+Size: 11492
+MD5sum: 143bbc6ffd47dfb1beb85f9792eb4ae2
+SHA256: 7851e96a42525ef37b1e2a49e2f8994df910502c35c7c1aa5e8206e8a3fe5a30
